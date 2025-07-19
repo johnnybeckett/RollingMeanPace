@@ -1,0 +1,8 @@
+<settings>
+    <setting propertyKey="@Properties.useImperial" title="Use Imperial Units">
+        <settingConfig type="boolean"  />
+    </setting>
+    <setting propertyKey="@Properties.secondsToAverage" title="Seconds To average">
+        <settingConfig type="numeric" min="3" max="300" />
+    </setting>
+</settings>
